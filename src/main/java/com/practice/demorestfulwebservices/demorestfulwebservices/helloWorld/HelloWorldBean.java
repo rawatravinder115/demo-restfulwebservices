@@ -1,7 +1,7 @@
 package com.practice.demorestfulwebservices.demorestfulwebservices.helloWorld;
 
 public class HelloWorldBean {
-    private  String message;
+    private String message;
 
     public HelloWorldBean(String message) {
         this.message = message;
